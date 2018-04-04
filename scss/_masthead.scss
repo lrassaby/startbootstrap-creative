@@ -2,8 +2,9 @@
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url('../img/header.jpg');
-  background-position: center center;
+  margin-bottom: -1px;
+  background-image: url('../img/header.svg');
+  background-position: center bottom;
   @include background-cover;
   hr {
     margin-top: 30px;
