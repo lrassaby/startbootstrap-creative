@@ -27,6 +27,14 @@ a {
   }
 }
 
+a.light {
+  color: $white;
+  @include transition-all;
+  &:hover {
+    color: $primary;
+  }
+}
+
 h1,
 h2,
 h3,

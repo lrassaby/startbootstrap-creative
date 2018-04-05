@@ -29,6 +29,17 @@ a:hover {
   color: #2296f3;
 }
 
+a.light {
+  color: #fff;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+a.light:hover {
+  color: #2296F3;
+}
+
 h1,
 h2,
 h3,
