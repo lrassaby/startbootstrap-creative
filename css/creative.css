@@ -116,7 +116,7 @@ img::-moz-selection {
   font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+#mainNav .navbar-brand:hover {
   color: #2296f3;
 }
 
@@ -156,7 +156,7 @@ img::-moz-selection {
   #mainNav .navbar-brand {
     color: #fff;
   }
-  #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+  #mainNav .navbar-brand:hover {
     color: #f8f9fa;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link {
@@ -177,7 +177,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink .navbar-brand {
     color: #495057;
   }
-  #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
+  #mainNav.navbar-shrink .navbar-brand:hover {
     color: #2296f3;
   }
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
