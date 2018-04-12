@@ -5,7 +5,12 @@ html {
 }
 
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Libre Baskerville', Georgia, serif;
+}
+
+body p {
+  line-height: 1.8rem;
+  letter-spacing: 0.02rem;
 }
 
 hr {
